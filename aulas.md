@@ -8,7 +8,7 @@ Lógica de Programação
 ||Coleta, Recepção e Transmissão de informação digital|https://www.youtube.com/watch?v=i6_GYZm7I4M&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=4|
 |0304|Definição de computação|https://www.youtube.com/watch?v=9mLKJrc-Gfc&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=5|
 ||Exercício de Fixação, Vídeo sobre a importância da programação, 
-História da computação, ábaco|https://www.youtube.com/watch?v=l1tGsjfarA0&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=6https://www.youtube.com/watch?v=l1tGsjfarA0&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=6|
+||História da computação, ábaco|https://www.youtube.com/watch?v=l1tGsjfarA0&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=6https://www.youtube.com/watch?v=l1tGsjfarA0&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=6|
 ||Ossos de Napier e Pascaline|https://www.youtube.com/watch?v=YsSBcEv61AA&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=7|
 |0506|Resolução dos Exercícios de Fixação 0102|https://www.youtube.com/watch?v=vPaQTWkJL-Y&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=8|
 ||Resolução dos Exercícios de Fixação 0304|https://www.youtube.com/watch?v=SZxD40JDSL8&list=PLOXZkuohgOZwCivDu-NJAPxfmL6kmmd1r&index=10|
